@@ -14,4 +14,4 @@ Our code is public: read it, run it, host it. Issues are welcome: report a bug o
 
 ## Contact
 
-[cupel.works](https://cupel.works) · [francesco.campanile@cupel.works](mailto:francesco.campanile@cupel.works)
+[cupel.works](https://cupel.works) · [info@cupel.works](mailto:info@cupel.works)
