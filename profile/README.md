@@ -1,4 +1,4 @@
-<img src="cupelworks-github-social-1280x640.png" width="100%" alt="CupelWorks. AI testing for quality engineering. Test AI. Prove it. Evidence your QE team can sign off on.">
+![CupelWorks. AI testing for quality engineering. Test AI. Prove it. Evidence your QE team can sign off on.](https://raw.githubusercontent.com/cupelworks/.github/main/profile/cupelworks-github-social-1280x640.png)
 
 We make AI testing tools for quality engineering teams. An LLM app answers differently every run, so one passing test proves little; our tools turn runs into evidence: tests you can repeat, scores you can compare, verdicts your QE team can sign off on.
 
